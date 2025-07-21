@@ -1,0 +1,14 @@
+### Notes for implementation of Verify and Edit 
+
+>>>> REQUIREMENTS for VE Implementation
+
+1. Orignail Question (Multihop QA data) -- done
+2. N-shot COT prompt -- done
+3. LLM -- done 
+4. External knowledge retrieval model (wikipedia) -- done 
+5. n-shot prompt for verifying question generation -- done 
+6. n-shot prompt for validation answer generation 
+
+
+
+>>>> STEPS for Implementation 
